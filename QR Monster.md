@@ -1,4 +1,3 @@
-```
 The digital art world is always alive with new trends, and lately, QR code art has taken center stage. If you've been intrigued by the creative pieces gracing platforms like Twitter and other online avenues, then you're witnessing the magic of Stable Diffusion. While techniques such as Controlnet, Canny, and Zoe Depth maps have provided artists with avenues to experiment in the past, QR Code Monster simplifies the process, requiring minimal adjustments for the perfect result. It's not just a trend—it's a welcoming art evolution, and as a newbie, you're about to embark on a delightful journey of creativity. 
 
 Begin by initializing Automatic 1111. Given the fast-paced nature of our lives today, many, including myself, often lean towards medium servers for efficiency. However, if you find yourself with a leisurely pace and time on your hands, a small server serves just as well. The choice ultimately hinges on your time availability and budget. For this specific project, rest assured, there's no need for a larger setup.
@@ -82,7 +81,4 @@ You can use numerous styles and prompts to change it up.  I’ve kept the same s
 Hope you enjoyed and please make sure to share on the Run Diffusion Discord in #showcase the works you create feel free to tag me as I love this style of art. 
 
 ![image](https://github.com/ColorblindAdam/Stablediffusionscripts/assets/130062936/dec3fab1-61a6-4cc2-abd7-07c35e82394a)
-
-
-```
 
