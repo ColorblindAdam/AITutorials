@@ -2,19 +2,22 @@ There are a lot of methods to add text and subliminal messages to your AI art in
 
 Feel free to change the checkpoint, prompts and negative prompts and seeds as needed to fit the image you are creating.  These are just basic prompts so you can see it in action.  Changing the color of the text can also help sometimes merge with a scene better.
 
+I'm running this with Rundiffusion because my computer is not exactly a potato but I need to work in the cloud.
+
 Use these settings:
-Checkpoint: Run Diffusion-FX-2.5-SD
-Prompt:Beautiful rock formations, jade, crystal, rubies, emeralds, stones, gems, photograph, award winning photograph, 8k Resolution, high quality, High Resolution, High definition
-Neg Prompt:bad quality, ugly, blurry, deformed
-Sampling Method: DPM++ 2M Karras
-Steps: 40
-CFG: 7
-Width/Height: 1024
-Seed:3463973621
-Controlnet: Enabled, Use Image provided below. No Preprocessor.  Model: control_v1p_sd15_qrcode_monster   (Some like pixel perfect you can try on and off later but for this one leave it off so you get the same results.)
+
+***Checkpoint**: Run Diffusion-FX-2.5-SD
+**Prompt**:Beautiful rock formations, jade, crystal, rubies, emeralds, stones, gems, photograph, award winning photograph, 8k Resolution, high quality, High Resolution, High definition
+**Neg Prompt**:bad quality, ugly, blurry, deformed
+**Sampling Method**: DPM++ 2M Karras
+**Steps**: 40
+**CFG**: 7
+**Width/Height**: 1024
+**Seed**:3463973621
+**Controlnet**: Enabled, Use Image provided below. No Preprocessor.  
+**Controlnet Model**: control_v1p_sd15_qrcode_monster   (Some like pixel perfect you can try on and off later but for this one leave it off so you get the same results.)
 
 ![image](https://github.com/ColorblindAdam/AITutorials/assets/130062936/c17314f6-a1ad-4aa1-b870-a2996f5d95a6)
-
 
 And the controlnet settings:
 
