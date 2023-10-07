@@ -23,9 +23,11 @@ will also notice under download on the far right it will say “Succesfully load
 ![image](https://github.com/ColorblindAdam/AITutorials/assets/130062936/4db8cb9a-1745-4cf1-936d-ca2d90e91da4)
 
 **Step 4**: Click on the Chat Tab in the top left.
+
 ![image](https://github.com/ColorblindAdam/AITutorials/assets/130062936/b231d1e1-08db-4cad-890f-14f7af26c6e8)
 
 **Step 5**: Type in the box and hit Generate.
+
 ![image](https://github.com/ColorblindAdam/AITutorials/assets/130062936/5c2df790-fc99-479d-a6e9-84501e90ce31)
 
 
@@ -35,6 +37,7 @@ personalities to tune the LLM to our interests or needs.
 Loading a Character
 
 **Step 6**: Click on the Parameters tab at the top.
+
 ![image](https://github.com/ColorblindAdam/AITutorials/assets/130062936/66272754-35fc-40d1-b72f-6fffa8826c07)
 
 
@@ -47,6 +50,7 @@ we will load one that comes with your Run Diffusion account. In future tutorials
 how to make your own or download some off the internet that others have made.
 
 **Step 8**: In the Drop down select Example.
+
 ![image](https://github.com/ColorblindAdam/AITutorials/assets/130062936/0ef07055-e377-49c4-8921-121f76da9e2c)
 
 You can see that it has loaded up a character named Chiharu Yamada. Under context it shows
@@ -54,6 +58,7 @@ a little bit about who she is and on the top right we can see her profile pictur
 place for us to upload a picture of ourselves if we want too. Let’s leave it as is for now.
 
 **Step 9**: Once again select the Chat tab at the top.
+
 ![image](https://github.com/ColorblindAdam/AITutorials/assets/130062936/e428c51b-25a0-4f24-aad8-1772298f0fc3)
 
 
