@@ -5,6 +5,9 @@ Diffusion.
 
 **Step 1**: Fire Up a Medium Sized Server. This will do the trick for most of the Opensource LLMs.
 You will see this page load
+
+![image](https://github.com/ColorblindAdam/AITutorials/assets/130062936/278d9a62-b574-4b09-9ac8-5de518a4eeb1)
+
 I always click on the time top “hide my image gallery” because I’m working on a laptop. But if it
 doesn’t bother you feel free to keep it visible.
 
