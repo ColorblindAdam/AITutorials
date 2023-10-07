@@ -6,7 +6,7 @@ I'm running this with Rundiffusion because my computer is not exactly a potato b
 
 Use these settings:
 
-***Checkpoint**: Run Diffusion-FX-2.5-SD
+**Checkpoint**: Run Diffusion-FX-2.5-SD
 
 **Prompt**:Beautiful rock formations, jade, crystal, rubies, emeralds, stones, gems, photograph, award winning photograph, 8k Resolution, high quality, High Resolution, High definition
 
