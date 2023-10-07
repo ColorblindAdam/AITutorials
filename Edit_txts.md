@@ -1,3 +1,5 @@
+This code is for creating datasets for training LoRa.
+
 This code gives you 3 options.
 
 1. Deletes all information in .txt files in a specific folder.  (There is a warning when selecting this option)
