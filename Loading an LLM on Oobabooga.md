@@ -1,6 +1,6 @@
-Loading a Large Language Model in Oogabooga on the Rundiffusion website.
+Loading a Large Language Model in Oobabooga on the Rundiffusion website.
 
-Let’s Learn how to Load a Large Language Model (LLM) on the WebUI Oogabooga on Run
+Let’s Learn how to Load a Large Language Model (LLM) on the WebUI Oobabooga on Run
 Diffusion.
 
 **Step 1**: Fire Up a Medium Sized Server. This will do the trick for most of the Opensource LLMs.
