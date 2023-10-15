@@ -4,21 +4,35 @@ This Tutorial will teach you how to create a QR code with an existing image usin
 QR Code - Image 2 Image with Automatic 1111
 
 **Step 1**: Create an Image using your preferred image or use an existing image.
+
 **Step 2**: Load Automatic1111 on Run Diffusion
+
 **Step 3**: Select Img2Image Tab
+
 **Step 4**: Change the Following Settings
+
 **Model**: Any SD 1.5 Model capable of using Controlnet
+
 **Image**: The image you wish to use
+
 **Prompt**: I use the same prompt I used to create the image. But I tested it with images whose prompt I was not given and just guessed.
+
 **Sampling Method**: DPM++ 2M Karras
+
 **Denoising**: 0.4-.7 (Will explain below)
+
 **Controlnet Settings**: Enabled, Pixel Perfect, Preview
+
 **Preprocessor**: None
+
 **Model**: control_v1p_sd15_qrcode_Monster
+
 **Control Weight**: 2
+
 **Control Mode**: Select Controlnet is More Important
 
 **Step 5**: Adjust Denoising and Generate
+
 Denoising must be adjusted for each image. I find the sweet spot to be .5 Hit generate. It
 probably won’t scan the first pass.
 
